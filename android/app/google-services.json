@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "877623739374",
+    "firebase_url": "https://eshop-fead3.firebaseio.com",
+    "project_id": "eshop-fead3",
+    "storage_bucket": "eshop-fead3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877623739374:android:76ce2d99813e5e386a84ff",
+        "android_client_info": {
+          "package_name": "com.foysal.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877623739374-3kkigaisdfaaerrt2g4br8ecohh6aq74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSUM4KzOX8TlHg2J1023q_8fNrwU8Ku7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877623739374-3kkigaisdfaaerrt2g4br8ecohh6aq74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
